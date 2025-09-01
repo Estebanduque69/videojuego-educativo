@@ -1,0 +1,13 @@
+"Guardianes del Conocimiento" es un videojuego educativo diseñado para enseñar Matemáticas a estudiantes de primaria a través de una experiencia inmersiva y emocionante.
+
+La historia se desarrolla en 'Numerópolis', un mundo lleno de misterios y acertijos matemáticos. Los jugadores conocerán personajes fascinantes que guiarán su aprendizaje en cada misión.
+
+El protagonista de esta aventura es Lía, una niña curiosa y valiente que ama resolver problemas. Lía ha sido elegida para una misión única: restaurar el equilibrio del Reino de los Números, derrotando a los villanos que quieren borrar las matemáticas del mundo. Con su libro mágico de cálculos, deberá superar pruebas numéricas y guiar a los jugadores en su aprendizaje.
+
+El jugador podrá resolver acertijos interactivos, para avanzar deberá superar minijuegos educativos y los desafíos incluirán operaciones matemáticas, patrones y problemas de lógica.
+
+Los estudiantes avanzarán mediante un sistema de niveles progresivos. Cada nivel representa un concepto matemático (sumas, restas, multiplicaciones, fracciones), y recibirán retroalimentación inmediata sobre su desempeño.
+
+Los jugadores aprenderán sumas y restas mediante misiones con objetos mágicos. Se reforzará multiplicación y división a través de retos con acertijos y las evaluaciones se realizarán mediante pruebas rápidas en los niveles.
+
+El juego se desarrollará usando Unity y tendrá soporte para PC y dispositivos móviles (Android/iOS). Además, se implementarán características como guardado en la nube, animaciones interactivas y panel de control para profesores.
